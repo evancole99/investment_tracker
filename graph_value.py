@@ -48,6 +48,6 @@ def graph_value(user_id):
     u_plot.set_ylim([min_y, max_y])
     fig.autofmt_xdate()
     fig.suptitle('Portfolio value')
-    fig.savefig('user_value.png')
+    fig.savefig('data/user_value.png')
 
     con.close()

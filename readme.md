@@ -37,6 +37,15 @@ SQLite3 is also required in order to connect to the database.
 The script can then be executed via the command line:  
 > python3 main.py  
 
-This project is publicly available on GitHub. Anyone may repurpose, change, or expand upon this library for educational purposes.  
+There is a test user configured with a few preset purchases and stock holdings to play around with.  
+To sign in to the test user, enter the following credentials:  
+Account name: test\_account
+Password: password  
+
+This project is publicly available on [GitHub](https://github.com/evancole99/investment_tracker). Anyone is free to repurpose, change, or expand upon this library for educational purposes.  
+
+
+
+NOTE: If you try to break the scripts, you will. If you try to break the database, you will. This is not meant to be a secure implementation, only practice and educational content. **DO NOT STORE SENSITIVE DATA HERE.**  
 
 
