@@ -2,6 +2,10 @@
 # FRONT END OF INVESTMENT DATABASE
 # --------------------------------
 
+# TODO:
+# - add crypto support
+# - add P/L tracker for different time periods (1D, 1W, 1M, 3M, 1Y, 5Y)
+# - interactive graph?
 
 from update_db import update_portfolios
 from graph_value import graph_value
